@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/samueldantasoliveira/samueldantasoliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldantasoliveira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
