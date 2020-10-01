@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <img align="left" alt="LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-[![Samuel Dantas de Oliveira github stats](https://github-readme-stats.vercel.app/api?username=samueldantasoliveira&count_private=true&show_icons=true)](https://www.linkedin.com/in/samueldantasoliveira/)
+[![Samuel Dantas de Oliveira github stats](https://github-readme-stats.vercel.app/api?username=samueldantasoliveira&count_private=true&show_icons=true)]
