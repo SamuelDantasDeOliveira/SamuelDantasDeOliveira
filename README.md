@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 </a>
 
 [![Samuel Dantas de Oliveira github stats](https://github-readme-stats.vercel.app/api?username=samueldantasoliveira&count_private=true&show_icons=true)]
+(https://www.linkedin.com/in/samuel-dantas-de-oliveira/)
